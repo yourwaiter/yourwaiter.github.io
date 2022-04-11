@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "com.yw.clientApp",
+                "paths": [
+                    "/billing/",
+                    "/billing/*",
+                    "/a/*",
+                    "/a/",
+                    "*"
+                ]
+            }
+        ]
+    }
+}
